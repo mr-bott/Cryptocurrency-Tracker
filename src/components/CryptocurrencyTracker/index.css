@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+  background-color:black;
+}

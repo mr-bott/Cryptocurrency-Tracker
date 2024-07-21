@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.li {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  height: 70px;
+  list-style-type: none;
+  box-sizing: border-box;
+  padding: 0 10px;
+  margin: 0;
+}
+.typee {
+  color: white;
+  margin-left:;
+  font-weight: 600;
+  font-size: 18px;
+}
+.side-li{
+
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 1%;
+}
+.sidee {
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  margin-right: 1%;
+}
+.img-li {
+  width: 15%;
+}
